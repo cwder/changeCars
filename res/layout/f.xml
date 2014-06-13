@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:background="@color/white"
+     >
+     
+    <Button android:layout_width="fill_parent"
+        android:layout_height="wrap_content" 
+        android:id="@+id/btn"
+        
+        />
+    
+    <com.example.cwd.SilderView
+         android:id="@+id/silderView"
+         android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        >
+    
+    <FrameLayout 
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/img_lay"
+        >
+    
+    <ImageView
+        android:id="@+id/img"
+        android:layout_width="fill_parent"
+        android:layout_height="150dip"   
+         
+        android:background="@drawable/asde"   
+        android:clickable="true" /> 
+        
+    </FrameLayout>
+    
+    </com.example.cwd.SilderView>
+     <ListView
+        
+        android:id="@+id/list"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:scrollbars="none" >
+    </ListView>
+
+</LinearLayout>

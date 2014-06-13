@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="content_black">#161616</color>
+    <color name="more_black">#898989</color>
+    <color name="white">#ffffff</color>
+    <color name="white_for_hint">#949494</color>
+    <color name="black">#000000</color>
+    <color name="white_1">#C3D4DA</color>
+    <color name="white_2">#bababa</color>
+    <color name="white_3">#ccf0ff</color>
+    <color name="message_white">#f0f0f0</color>
+    <color name="grey_1">#7a8487</color>
+    <color name="grey_2">#707273</color>
+    <color name="grey_3">#898989</color>
+    <color name="transparent">#00000000</color>
+    <color name="grey">#898989</color>
+    <color name="blue">#127ad4</color>
+    <color name="font_black">#595757</color>
+    <color name="carsfan_item_follower">#f5f5f5</color>
+    <color name="carsfan_item_following">#ffffff</color>
+    <color name="dialog_bg">#88000000</color>
+    <color name="post_edit_bg">#EAEAEA</color>
+    <color name="translucent_background">#E0000000</color>
+    <color name="pa_grey1">#383838</color>
+    <color name="pa_grey2">#8b8b8b</color>
+    <color name="pa_orange">#ff6600</color>
+    <color name="pa_grey3">#666666</color>
+    <color name="pa_red">#d50401</color>
+    
+    <color name="pa_grey4">#a7a7a7</color>
+
+</resources>
